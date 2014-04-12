@@ -1,4 +1,0 @@
-TestSymphony
-============
-
-Just for test 
