@@ -1,0 +1,4 @@
+i_sportis_test:
+    resource: "@ISportisTestBundle/Resources/config/routing.yml"
+    prefix:   /
+
